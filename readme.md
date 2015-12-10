@@ -1,6 +1,7 @@
 ## Drive Uploader
 
 Access Google Drive with Google API using server side oAuth 2.0 (POC)
+Using Laravel framework v5.1 & google/apiclient v1.1
 
 ### Features
 
